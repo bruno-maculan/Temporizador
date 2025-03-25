@@ -15,6 +15,7 @@ while t != 0:
     time.sleep(1)
     t = t - 1
 
-print('\nO tempo acabou!')
+print('\n')
+print('O tempo acabou!')
 
 
